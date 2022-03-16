@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+#result {
+  color: blueviolet;
+}
+
+h2 {
+  text-transform: capitalize;
+}
+
+#computer-choice {
+  color: blue;
+}
+
+#user-choice {
+  color: darkorange;
+}
+
+#result {
+  font-style: italic;
+}
+
+button {
+  background-color: blueviolet;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 20px;
+}
